@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.exe.config
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.exe
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.Lib.dll
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\bin\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\obj\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\obj\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\obj\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\obj\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.exe
+C:\Users\User\source\repos\Tyuiu.HodakovNA.Sprint5\Tyuiu.HodakovNA.Sprint5.Task2.V12\obj\Debug\Tyuiu.HodakovNA.Sprint5.Task2.V12.pdb
